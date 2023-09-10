@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""This function generates the number of operations possible for a given variabe"""
+"""generates the number of operations possible for a given variabe"""
 
 
 def minOperations(n):
