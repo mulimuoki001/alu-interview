@@ -23,7 +23,3 @@ def rain(walls):
                 total_water += right_highest - walls[right]
             right -= 1
     return total_water
-
-walls = [2, 0, 0, 4, 0, 0, 1, 0]
-total = rain(walls)
-print(total)
