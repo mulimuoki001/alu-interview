@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 """This function calculates the total amount of water between wals"""
+
+
 def rain(walls):
     if len(walls) == 0:
         return 0
