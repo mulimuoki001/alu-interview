@@ -1,0 +1,1 @@
+This function measures the amount of water in between walls using the two-pointer approach
